@@ -1,1 +1,2 @@
 This is the first file
+add another file to the folder and commit it for my git learning purpose 
